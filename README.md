@@ -1,1 +1,1 @@
-# Poll Django Project
+# My Django Project
